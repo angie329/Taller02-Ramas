@@ -7,4 +7,5 @@ Arianna Feijoo
 Matias Collaguazo
 ![alt text](image-1.png)
 ![alt text](image.png)
-
+Raul Laurido
+![alt text](<Screenshot 2024-05-22 155349.png>)
