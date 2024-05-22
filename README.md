@@ -2,3 +2,5 @@
 
 Angie Alfonso
 ![alt text](image-3.png)
+Arianna Feijoo
+![alt text](image-1.png)
