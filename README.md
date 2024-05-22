@@ -6,3 +6,5 @@ Arianna Feijoo
 ![alt text](image-1.png)
 Matias Collaguazo
 ![alt text](image-1.png)
+![alt text](image.png)
+
